@@ -1,7 +1,5 @@
 # SimplePHPWebsite
 
-This website is a random name generator that was made in PHP
-
 Instructions:
 
 Before you start...
