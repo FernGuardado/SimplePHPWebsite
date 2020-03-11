@@ -1,5 +1,4 @@
 <?php
-phpinfo();
 ?>
 
 <html lang="en">
