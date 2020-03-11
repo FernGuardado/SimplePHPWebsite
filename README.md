@@ -2,6 +2,8 @@
 
 Created By: Fernando Guardado
 
+This is a PHP website for generating random names from a click of a button.
+
 Instructions:
 
 Before you start...
