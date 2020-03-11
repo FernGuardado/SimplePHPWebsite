@@ -7,21 +7,8 @@ Before you start...
 You must install PHP and XAMPP on your computer,
 if you haven't, click these links to install them...
 
-PHP
-Download for windows
-https://windows.php.net/download/
-
-Download Instructions for Windows
-https://www.jeffgeerling.com/blog/2018/installing-php-7-and-composer-on-windows-10
-
-Download instructions for Mac users
-https://tecadmin.net/install-php-macos/
-
-Download instructions for linux users
-https://tecadmin.net/install-php-7-on-ubuntu/
-
-XAMP
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.12/
+Check the wiki to see what software you need to download:
+https://github.com/FernGuardado/SimplePHPWebsite/wiki
 
 _________________________________________________________________________________
 Running it..
