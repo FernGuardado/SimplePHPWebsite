@@ -5,6 +5,7 @@
     <title>SimplePHPWebsite</title>
 
     <script>
+
     </script>
 
     <style>
@@ -18,6 +19,19 @@
             display: flex;
             justify-content: center;
         }
+
+        /*Container styles*/
+        #container{
+            height: 200px;
+            width: 400px;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            margin-top: -100px;
+            margin-left: -200px;
+        }
+
+
     </style>
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -30,7 +44,7 @@
 
         <h1 id="title">Name Genterator</h1>
             <p id="sect-title">Generate random names</p>
-            <form action="index.php" method="post">
+            <form id="nameForm" action="index.php" method="post">
                 <div id="wrapper">
                     <input type="submit" name="submit" value="Generate">
                 </div>
