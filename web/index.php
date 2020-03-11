@@ -22,13 +22,16 @@
 
         /*Container styles*/
         #container{
-            height: 200px;
-            width: 400px;
+            height: 230px;
+            width: 450px;
             position: fixed;
             top: 50%;
             left: 50%;
             margin-top: -100px;
             margin-left: -200px;
+            border: solid 3px;
+
+        
         }
 
 
@@ -44,9 +47,9 @@
 
         <h1 id="title">Name Genterator</h1>
             <p id="sect-title">Generate random names</p>
-            <form id="nameForm" action="index.php" method="post">
+            <form id="nameForm" action="index.php" method="post" >
                 <div id="wrapper">
-                    <input type="submit" name="submit" value="Generate">
+                    <input class="btn btn-primary" type="submit" name="submit" value="Generate">
                 </div>
             </form>
         </section>
@@ -178,7 +181,7 @@
     }
     if(isset($_POST['submit']))
     {
-        print "<h1><center>".randomName()."</center></h1>";
+        print "<h2><center>".randomName()."</center></h2>";
     } 
     ?>
         <br>
