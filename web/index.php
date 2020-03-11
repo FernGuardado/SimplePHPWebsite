@@ -184,5 +184,18 @@
     ?>
         <br>
     </div>
+
+    <br>
+    <footer class="page-footer font-small blue">
+        <div>
+            <center>Created By Fernando Guardado</center>
+            <center><a href="https://github.com/FernGuardado/SimplePHPWebsite">Git repo</a></center>
+        </div>
+    </footer>
+
+
+
+    
 </body>
+
 </html>
