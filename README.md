@@ -9,7 +9,6 @@ Instructions:
 Before you start...
 
 You must install PHP and XAMPP on your computer,
-if you haven't, click these links to install them...
 
 Check the wiki to see what software you need to download:
 https://github.com/FernGuardado/SimplePHPWebsite/wiki
